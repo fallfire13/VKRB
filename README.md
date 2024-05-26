@@ -15,4 +15,4 @@
 
 В папке /mpl/ также находятся файл с датасетом my_dataset.csv и ноутбук preprocessing.ipynb с функциями предобработки этого датасета
 
-В папке /ml/nlp/ должны лежать full_description.txt (), labels.txt () и glove.6B.Kd.txt (где K - нужный эмбеддинг)
+В папке /ml/nlp/ должны лежать glove.6B.Kd.txt (где K - нужный эмбеддинг) и полученные после предобработки full_description.txt () и labels.txt ()
