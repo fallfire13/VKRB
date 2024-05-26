@@ -15,4 +15,4 @@
 
 В папке /ml/ также находится ноутбук preprocessing.ipynb с функциями предобработки этого датасета
 
-В папке /ml/nlp/ должны лежать glove.6B.`N`d.txt (где `N` - нужный эмбеддинг), датасет my_dataset.csv и полученные после предобработки full_description.txt () и labels.txt ()
+В папке /ml/nlp/ должны лежать glove.6B.`N`d.txt (где `N` - нужный эмбеддинг), датасет my_dataset.csv и полученные после предобработки full_description.txt (текст) и labels.txt (метки)
