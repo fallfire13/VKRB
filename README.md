@@ -6,7 +6,7 @@
   * [Презентация]
   * [Текст выступления]
   * [Текст ВКР]
-  * [Ссылка на архив с эмбеддингами](https://drive.google.com/file/d/1M5eB7x7Opa-lQe9ppgbUSv2q7BGmfVZn/view?usp=sharing)
+  * [Ссылка на архив с эмбеддингами](https://drive.google.com/file/d/1M5eB7x7Opa-lQe9ppgbUSv2q7BGmfVZn/view?usp=sharing) [Ссылка на сайт с архивом GloVe](https://nlp.stanford.edu/projects/glove/)
   
 
 ## Запуск ноутбуков
